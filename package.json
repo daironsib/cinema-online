@@ -1,5 +1,10 @@
 {
-  "name": "cinema-online",
+  "name": "online-cinema-app",
+  "author": {
+    "email": "daironsib@gmail.com",
+    "name": "Artem Sokolov (DaironSib)"
+  },
+  "description": "Front-End App for Online Cinema Portal",
   "version": "0.1.0",
   "private": true,
   "scripts": {
