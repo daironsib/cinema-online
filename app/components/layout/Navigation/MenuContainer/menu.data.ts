@@ -26,9 +26,9 @@ export const firstMenu: IMenu = {
 	],
 }
 
-export const UserMenu: IMenu = {
+export const userMenu: IMenu = {
 	title: 'General',
 	items: [],
 }
 
-export const menus: IMenu[] = [firstMenu, UserMenu]
+export const menus: IMenu[] = [firstMenu, userMenu]
